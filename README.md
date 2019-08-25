@@ -9,5 +9,8 @@ The inputs that will be asked for are:
 3) Email Subject. 
 4) Name of CSV file or path if it is not in directory.
 
+CSV file should contain the following details in the same order:
+Company Name, Receiver Name(Along with salutations if needed), email address.
+
 
 The output will contain a log file witrh details of emails sent and also and updated csv with only the details of the people to which the email was not successfully delivered to. 
