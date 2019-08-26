@@ -17,3 +17,4 @@ The output will contain a log file witrh details of emails sent and also and upd
 
 
 * Note :  Before using this app you will have to enable your gmail account to allow apps with low security access.You can do that on this link: https://myaccount.google.com/lesssecureapps
+* It could take a while(maybe 24 hours) before activation takes place.
