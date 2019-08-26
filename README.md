@@ -14,3 +14,6 @@ Company Name, Receiver Name(Along with salutations if needed), email address.
 
 
 The output will contain a log file witrh details of emails sent and also and updated csv with only the details of the people to which the email was not successfully delivered to. 
+
+
+* Note :  Before using this app you will have to enable your gmail account to allow apps with low security access.You can do that on this link: https://myaccount.google.com/lesssecureapps
